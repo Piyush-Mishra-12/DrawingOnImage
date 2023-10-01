@@ -1,6 +1,6 @@
 # Ignore the folder
 env/
-Project Text folder/
+Project Text/
 output/
 
 # Ignore the .pdf file
