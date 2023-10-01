@@ -1,0 +1,10 @@
+# Ignore the folder
+env/
+Project Text folder/
+output/
+
+# Ignore the .pdf file
+Computer Vision Intern Assignment.pdf
+
+# Ignore the .zip file
+Licence Image.zip
